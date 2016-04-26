@@ -26,6 +26,13 @@ Comme souvent, c'est mouvment propose de se réattribuer les moyens de  producti
 ecosystème de faiseurs (diy)
 projet pilote
 
+### References
+
+#####Ecology
+* https://hackaday.io/post/35699 
+* http://www.makery.info/2016/04/26/vers-un-p2p-de-lenergie/ 
+* http://www.citizenwatt.paris/ 
+* https://openenergymonitor.org/emon/ 
 
 
 
